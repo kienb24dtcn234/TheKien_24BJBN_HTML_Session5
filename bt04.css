@@ -1,0 +1,13 @@
+.title {
+    padding-bottom: 175px;
+}
+
+.content {
+    opacity: 0.5;
+    display: inline;
+}
+
+.text {
+    display: inline;
+    opacity: 0.5;
+}
